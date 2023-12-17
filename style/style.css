@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Tajawal;
+    src: url(../style/fonts/Tajawal-Regular.ttf);
+}
+
+
+html{
+    direction: rtl;
+}
+body{
+    font-family: 'Tajawal', sans-serif;
+}
+
+.my-width{
+    width: 230px;
+}
+
+.main{
+    width: 100%;
+    
+}
+
+.home-page{
+    height: 100vh;
+}
+
+.bg-color{
+    background: #101a23;
+}
