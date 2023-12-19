@@ -23,3 +23,7 @@ body{
 .bg-color{
     background: #101a23;
 }
+
+table{
+    border-radius: 25%;
+}
